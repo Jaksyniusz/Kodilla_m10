@@ -1,2 +1,2 @@
 # Kodilla_m10
-Module 10 tasks
+10th module tasks
